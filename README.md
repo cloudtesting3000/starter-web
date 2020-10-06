@@ -1,4 +1,4 @@
 # Starter Web Repo
 ## Introduction
-Push
+Comit
 ## Purpose
